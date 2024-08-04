@@ -15,7 +15,7 @@ Det ska vara lika enkelt, smidigt och tryggt att köpa begagnad produkt som en n
 - :email: hello@budi.se
 - :office: Linta Gårds väg 5a, Bromma Kyrka, Stockholms Län, Sweden 168 74
 - :globe_with_meridians: Web: [Budi.se](https://www.budi.se/)
-- :bird: Twitter: [@budiauktioner](https://twitter.com/budiauktioner)
 - :camera: Instagram: [@budiauktioner](https://www.instagram.com/budiauktioner/)
 - :wave: LinkedIn: [@Budi Auktioner](https://www.linkedin.com/company/budiauktioner)
 - :octocat: GitHub: [@BudiAB](https://github.com/BudiAB)
+- :bird: Twitter: [@budiauktioner](https://twitter.com/budiauktioner)
